@@ -1,0 +1,21 @@
+---
+title: "word complains"
+format: docx
+---
+
+
+```{r}
+#| label: load_data
+#| include: false
+data(mtcars)
+
+library(gt)
+```
+
+Now lets try a table in our word document. This should be Table 1.
+
+```{r}
+#| label: table-cars
+#| echo: false
+gt(mtcars[1:5, ])
+```

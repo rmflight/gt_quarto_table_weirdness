@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing">
+<w:body>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Title" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">word</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">complains</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="FirstParagraph" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Now lets try a table in our word document. This should be</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:hyperlink w:anchor="tbl-cars">
+<w:r>
+<w:rPr>
+<w:rStyle w:val="Hyperlink" />
+</w:rPr>
+<w:t xml:space="preserve">Table 1</w:t>
+</w:r>
+</w:hyperlink>
+<w:r>
+<w:t xml:space="preserve">.</w:t>
+</w:r>
+</w:p>
+<w:tbl>
+<w:tblPr>
+<w:tblStyle w:val="Table" />
+<w:tblW w:type="pct" w:w="5000" />
+<w:tblLayout w:type="fixed" />
+<w:tblLook w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="0" w:noVBand="0" w:val="0000" />
+</w:tblPr>
+<w:tblGrid>
+<w:gridCol w:w="7920" />
+</w:tblGrid>
+<w:tr>
+<w:tc>
+<w:tcPr />
+<w:bookmarkStart w:id="20" w:name="tbl-cars" />
+<w:p>
+<w:pPr>
+<w:jc w:val="center" />
+</w:pPr>
+<w:pPr>
+<w:jc w:val="start"/>
+<w:spacing w:before="200" />
+<w:pStyle w:val="ImageCaption" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Table 1: A table made by kable.</w:t>
+</w:r>
+</w:p>
+<w:tbl>
+<w:tblPr>
+<w:tblStyle w:val="Table" />
+<w:tblW w:type="pct" w:w="5000" />
+<w:tblLayout w:type="fixed" />
+<w:tblLook w:firstRow="1" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="0" w:noVBand="0" w:val="0020" />
+</w:tblPr>
+<w:tblGrid>
+<w:gridCol w:w="2066" />
+<w:gridCol w:w="573" />
+<w:gridCol w:w="459" />
+<w:gridCol w:w="573" />
+<w:gridCol w:w="459" />
+<w:gridCol w:w="573" />
+<w:gridCol w:w="688" />
+<w:gridCol w:w="688" />
+<w:gridCol w:w="344" />
+<w:gridCol w:w="344" />
+<w:gridCol w:w="573" />
+<w:gridCol w:w="573" />
+</w:tblGrid>
+<w:tr>
+<w:trPr>
+<w:tblHeader w:val="on" />
+</w:trPr>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+</w:pPr>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">mpg</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">cyl</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">disp</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">hp</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">drat</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">wt</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">qsec</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">vs</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">am</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">gear</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">carb</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="left" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Mazda RX4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">21.0</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">6</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">160</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">110</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">3.90</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">2.620</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">16.46</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">0</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="left" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Mazda RX4 Wag</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">21.0</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">6</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">160</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">110</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">3.90</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">2.875</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">17.02</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">0</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="left" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Datsun 710</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">22.8</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">108</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">93</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">3.85</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">2.320</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">18.61</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="left" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Hornet 4 Drive</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">21.4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">6</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">258</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">110</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">3.08</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">3.215</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">19.44</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">0</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">3</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="left" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Hornet Sportabout</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">18.7</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">8</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">360</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">175</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">3.15</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">3.440</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">17.02</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">0</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">0</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">3</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr />
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Compact" />
+<w:jc w:val="right" />
+<w:jc w:val="center" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">2</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+</w:tbl>
+<w:bookmarkEnd w:id="20" />
+<w:p />
+</w:tc>
+</w:tr>
+</w:tbl>
+<w:sectPr />
+</w:body>
+</w:document>
