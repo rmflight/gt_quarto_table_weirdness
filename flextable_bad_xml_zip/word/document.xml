@@ -1,0 +1,3022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing">
+<w:body>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Title" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">word</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">complains</w:t>
+</w:r>
+</w:p>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="FirstParagraph" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Now lets try a table in our word document. This should be</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:hyperlink w:anchor="tbl-cars">
+<w:r>
+<w:rPr>
+<w:rStyle w:val="Hyperlink" />
+</w:rPr>
+<w:t xml:space="preserve">Table 1</w:t>
+</w:r>
+</w:hyperlink>
+<w:r>
+<w:t xml:space="preserve">.</w:t>
+</w:r>
+</w:p>
+<w:tbl>
+<w:tblPr>
+<w:tblStyle w:val="Table" />
+<w:tblW w:type="pct" w:w="5000" />
+<w:tblLayout w:type="fixed" />
+<w:tblLook w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="0" w:noVBand="0" w:val="0000" />
+</w:tblPr>
+<w:tblGrid>
+<w:gridCol w:w="7920" />
+</w:tblGrid>
+<w:tr>
+<w:tc>
+<w:tcPr />
+<w:bookmarkStart w:id="20" w:name="tbl-cars" />
+<w:p>
+<w:pPr>
+<w:jc w:val="center" />
+</w:pPr>
+<w:pPr>
+<w:jc w:val="start"/>
+<w:spacing w:before="200" />
+<w:pStyle w:val="ImageCaption" />
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Table 1: A table made by flextable.</w:t>
+</w:r>
+</w:p>
+<w:tbl xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<w:tblPr>
+<w:tblLayout w:type="fixed"/>
+<w:jc w:val="center"/>
+<w:tblLook w:firstRow="1" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+</w:tblPr>
+<w:tblGrid>
+<w:gridCol w:w="1080"/>
+<w:gridCol w:w="1080"/>
+<w:gridCol w:w="1080"/>
+<w:gridCol w:w="1080"/>
+<w:gridCol w:w="1080"/>
+<w:gridCol w:w="1080"/>
+<w:gridCol w:w="1080"/>
+<w:gridCol w:w="1080"/>
+<w:gridCol w:w="1080"/>
+<w:gridCol w:w="1080"/>
+<w:gridCol w:w="1080"/>
+</w:tblGrid>
+<w:tr>
+<w:trPr>
+<w:trHeight w:val="360" w:hRule="auto"/>
+<w:tblHeader/>
+</w:trPr>header1<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">mpg</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">cyl</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">disp</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">hp</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">drat</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">wt</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">qsec</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">vs</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">am</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">gear</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">carb</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:val="360" w:hRule="auto"/>
+</w:trPr>body1<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">21.0</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">6</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">160</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">110</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">3.90</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">2.620</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">16.46</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">0</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:val="360" w:hRule="auto"/>
+</w:trPr>body2<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">21.0</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">6</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">160</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">110</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">3.90</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">2.875</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">17.02</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">0</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:val="360" w:hRule="auto"/>
+</w:trPr>body3<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">22.8</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">108</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">93</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">3.85</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">2.320</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">18.61</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:val="360" w:hRule="auto"/>
+</w:trPr>body4<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">21.4</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">6</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">258</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">110</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">3.08</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">3.215</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">19.44</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">0</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">3</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">1</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr>
+<w:trPr>
+<w:trHeight w:val="360" w:hRule="auto"/>
+</w:trPr>body5<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">18.7</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">8</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">360</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">175</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">3.15</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">3.440</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">17.02</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">0</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">0</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">3</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="12" w:space="0" w:color="666666"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:tcBorders>
+<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+<w:tcMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:left w:w="0" w:type="dxa"/>
+<w:right w:w="0" w:type="dxa"/>
+</w:tcMar>
+<w:vAlign w:val="center"/>
+</w:tcPr>
+<w:p>
+<w:pPr>
+<w:pStyle w:val="Normal"/>
+<w:jc w:val="right"/>
+<w:pBdr>
+<w:bottom w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:top w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:left w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+<w:right w:val="none" w:sz="0" w:space="0" w:color="000000"/>
+</w:pBdr>
+<w:spacing w:after="100" w:before="100" w:line="240"/>
+<w:ind w:left="100" w:right="100" w:firstLine="0" w:firstLineChars="0"/>
+</w:pPr>
+<w:r xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+<w:rPr>
+<w:rFonts w:ascii="DejaVu Sans" w:hAnsi="DejaVu Sans" w:eastAsia="DejaVu Sans" w:cs="DejaVu Sans"/>
+<w:i w:val="false"/>
+<w:b w:val="false"/>
+<w:u w:val="none"/>
+<w:sz w:val="22"/>
+<w:szCs w:val="22"/>
+<w:color w:val="000000"/>
+</w:rPr>
+<w:t xml:space="preserve">2</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+</w:tbl>
+<w:bookmarkEnd w:id="20" />
+</w:tc>
+</w:tr>
+</w:tbl>
+<w:sectPr />
+</w:body>
+</w:document>
