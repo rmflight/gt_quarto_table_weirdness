@@ -1,0 +1,22 @@
+---
+title: "word complains"
+format: docx 
+---
+
+
+```{r}
+#| label: load_data
+#| include: false
+data(mtcars)
+
+library(tinytable)
+```
+
+Now lets try a table in our word document. This should be @tbl-cars.
+
+```{r}
+#| label: tbl-cars
+#| tbl-cap: A table made by tinytable.
+#| echo: false
+tt(mtcars[1:5, ]) |> style_tt(i = 0, bold = TRUE, color = "red")
+```

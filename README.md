@@ -32,6 +32,8 @@ qmd files to provide reproducible examples of things not working, as well as the
 * `gt_good_xml.qmd`: no cross-reference, just works when opened in Word.
 * `gt_bad_xml.qmd`: has a single table cross reference, Word complains when opened, table looks weird.
 * `kable_okish_xml.qmd`: uses kable to generate the table, and has a cross-reference. Word does not complain, but table looks malformed.
+* `tinytable_bad_xml.qmd`: uses tinytable to generate the table, has a cross-reference. Word does not complain, everything looks good.
+* `tinytable_styled_bad_xml.qmd`: uses tinytable to generate the table, has a cross-reference. Word does not complain, but styling that shows up in HTML is not present in the Word document (red, bolded header).
 
 ## Issue
 
