@@ -19,6 +19,8 @@ Now lets try a table in our word document. This should be @tbl-cars.
 ```{r}
 #| label: tbl-cars
 #| tbl-cap: A table made by gt.
+#| tbl-cap-location: bottom
 #| echo: false
-gt(mtcars[1:5, ])
+gt(mtcars[1:5, ]) |>
+  cols_width(mpg ~ px(200))
 ```

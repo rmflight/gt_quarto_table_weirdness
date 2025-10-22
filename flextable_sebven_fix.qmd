@@ -1,8 +1,6 @@
 ---
 title: "word complains"
-format: 
-  docx:
-    keep-md: true 
+format: docx 
 ---
 
 
@@ -11,14 +9,15 @@ format:
 #| include: false
 data(mtcars)
 
-library(gt)
+library(flextable)
 ```
 
 Now lets try a table in our word document. This should be @tbl-cars.
 
 ```{r}
 #| label: tbl-cars
-#| tbl-cap: A table made by gt.
+#| tbl-cap: A table made by flextable.
 #| echo: false
-gt(mtcars[1:5, ])
+flextable(mtcars[1:5, ]) |>
+    set_table_properties(width = 1, layout = "autofit")
 ```

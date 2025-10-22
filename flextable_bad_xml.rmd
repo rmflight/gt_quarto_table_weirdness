@@ -1,0 +1,15 @@
+---
+title: "word complains"
+output: html_document
+---
+
+
+```{r setup, include = false}
+library(flextable)
+```
+
+Now lets try a table in our word document. This should be @tbl-cars.
+
+```{r tbl-cars}
+flextable(mtcars[1:5, ])
+```
